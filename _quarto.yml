@@ -12,6 +12,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - test.qmd
     right:
       - icon: rss
         href: https://macgraveur.github.io/mapage/sitemap.xml

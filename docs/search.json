@@ -26,5 +26,12 @@
     "title": "Finley Malloc",
     "section": "Experience",
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "test",
+    "section": "",
+    "text": "Ceci est la page de test\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
