@@ -2,6 +2,6 @@
 title: "blog"
 ---
 
-This is a Quarto website Jean Chevalier. Galbavy2
+Bienvenue sur le blog de Jean
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
