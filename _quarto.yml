@@ -12,13 +12,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-  announcement: 
-1    icon: info-circle
-2    dismissable: true
-3    content: "**Alert** - this is some information that you should pay attention to"
-4    type: primary
-5    position: below-navbar
-
+    right:
+      - icon: rss
+        href: https://macgraveur.github.io/mapage/sitemap.xml
+  
 format:
   html:
     theme:
