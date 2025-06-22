@@ -17,8 +17,8 @@ website:
         text: Cartographie
         icon: bi-geo-alt-fill
     right:
-      - icon: twitter
-        href: https://twitter.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jean-chevalier-1ba2a5193/
       - icon: rss
         href: https://macgraveur.github.io/mapage/sitemap.xml
   sidebar:
