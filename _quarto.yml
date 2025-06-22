@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources: 
     - _img
+  editor:
+    render-on-save: true
 
 website:
   title: "blog"
@@ -10,7 +12,8 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Accueil
+        icon: bi-house-door-fill
       - about.qmd
       - test.qmd
     right:
