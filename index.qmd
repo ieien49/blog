@@ -8,9 +8,21 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Lien : <https://bootswatch.com/pulse/>
 
-<button type="button" class="btn btn-outline-primary">Primary</button>
+<button type="button" class="btn btn-outline-primary">
 
-<button type="button" class="btn btn-outline-secondary">Secondary</button>
+Primary
+
+</button>
+
+```         
+<button type="button" class="btn btn-primary btn-sm">Small button</button>
+```
+
+<button type="button" class="btn btn-outline-secondary btn-sm">
+
+Secondary
+
+</button>
 
 <button type="button" class="btn btn-outline-success">
 
