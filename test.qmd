@@ -6,7 +6,6 @@ Ceci est la page de test
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-
 ```{python}
 
 ```
