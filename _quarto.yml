@@ -13,7 +13,9 @@ website:
         text: Accueil
         icon: bi-house-door-fill
       - about.qmd
-      - test.qmd
+      - href: test.qmd
+        text: Cartographie
+        icon: bi-geo-alt-fill
     right:
       - icon: rss
         href: https://macgraveur.github.io/mapage/sitemap.xml
