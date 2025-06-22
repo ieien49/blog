@@ -17,9 +17,13 @@ website:
         text: Cartographie
         icon: bi-geo-alt-fill
     right:
+      - icon: twitter
+        href: https://twitter.com
       - icon: rss
         href: https://macgraveur.github.io/mapage/sitemap.xml
-  
+  sidebar:
+    style: "docked"
+    search: true
 format:
   html:
     theme:
