@@ -6,17 +6,11 @@ Bienvenue sur le blog de Jean..
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-<button type="button" class="btn btn-outline-primary">
+Lien : <https://bootswatch.com/pulse/>
 
-Primary
+<button type="button" class="btn btn-outline-primary">Primary</button>
 
-</button>
-
-<button type="button" class="btn btn-outline-secondary">
-
-Secondary
-
-</button>
+<button type="button" class="btn btn-outline-secondary">Secondary</button>
 
 <button type="button" class="btn btn-outline-success">
 
