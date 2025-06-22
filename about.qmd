@@ -4,9 +4,9 @@ about:
   template: jolla
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: Linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/jean-chevalier-1ba2a5193/
     - icon: github
       text: Github
       href: https://github.com
