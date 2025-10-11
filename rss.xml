@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 11 Oct 2025 16:20:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[test]]></title>
+            <guid>5fff644cea49493e86537430b1929d82</guid>
+            <pubDate>Sat, 04 Oct 2025 07:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="sujet-principal">Sujet principal</h1>
+<h2 id="topic1">Topic1</h2>
+<h2 id="sujet">Sujet</h2>
+<h3 id="sujet-2">Sujet</h3>
+<h3 id="sujet-3">Sujet</h3>
+<h2 id="topic2">Topic2</h2>
+<h3 id="sujet-4">Sujet</h3>
+<h3 id="sujet-5">Sujet</h3>
+<h3 id="sujet-6">Sujet</h3>
+<h2 id="topic3">Topic3</h2>
+<h3 id="sujet-7">Sujet</h3>
+<h2 id="topic4">Topic4</h2>
+<h3 id="sujet-8">Sujet</h3>
+<h4 id="sujet-9">Sujet</h4>
+<h3 id="sujet-10">Sujet</h3>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
